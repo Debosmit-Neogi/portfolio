@@ -5,6 +5,6 @@
     <link>https://example.com/tags/</link>
     <description>Recent content in Tags on Debosmit Neogi</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://debosmit-neogi.github.io/portfolio/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
