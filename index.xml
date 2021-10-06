@@ -2,72 +2,72 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Debosmit Neogi</title>
-    <link>https://example.com/</link>
+    <link>https://debosmit-neogi.github.io/portfolio/</link>
     <description>Recent content on Debosmit Neogi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 13 Apr 2017 11:15:58 -0400</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 13 Apr 2017 11:15:58 -0400</lastBuildDate><atom:link href="https://debosmit-neogi.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Novel computer vision approach for scale specific generative stick figure as synthetic tribal art works.</title>
-      <link>https://example.com/post/chapter-5/</link>
+      <link>https://debosmit-neogi.github.io/portfolio/post/chapter-5/</link>
       <pubDate>Thu, 13 Apr 2017 11:15:58 -0400</pubDate>
       
-      <guid>https://example.com/post/chapter-5/</guid>
+      <guid>https://debosmit-neogi.github.io/portfolio/post/chapter-5/</guid>
       <description>A detailed methodology of generation of figures of Warli art (an ancient tribal art) using precise computational geometry, advanced trigonometry and intelligent computer vision techniques, has been illustrated in this paper. The figures have been generated for both the genders- male and female. The visual variances between the genders are attributed to carefully chosen phenotypic traits and differences in anatomical structures, that have been incorporated during generation of the images. A total of 60,000 images have been generated in multiple batches, with both genders in almost equal proportions.</description>
     </item>
     
     <item>
       <title>Visual perception for combat intrusion detection and intelligent premonition framework</title>
-      <link>https://example.com/post/chapter-4/</link>
+      <link>https://debosmit-neogi.github.io/portfolio/post/chapter-4/</link>
       <pubDate>Wed, 12 Apr 2017 11:14:48 -0400</pubDate>
       
-      <guid>https://example.com/post/chapter-4/</guid>
+      <guid>https://debosmit-neogi.github.io/portfolio/post/chapter-4/</guid>
       <description>A detailed methodology of object detection in a smart city setting has been illustrated in this chapter. The presented methodology focuses on intelligent uses of machine learning and deep learning algorithms for effective extraction of desired ROI from a challenging backdrop. This chapter encompasses a Convolutional Neural Network (CNN) based architecture and a Faster RCNN based approach and holistic comparisons are being made between the results obtained from the different approaches.</description>
     </item>
     
     <item>
       <title>A deep neural approach towards staining and tinting of monochrome images</title>
-      <link>https://example.com/post/chapter-3/</link>
+      <link>https://debosmit-neogi.github.io/portfolio/post/chapter-3/</link>
       <pubDate>Tue, 11 Apr 2017 11:13:32 -0400</pubDate>
       
-      <guid>https://example.com/post/chapter-3/</guid>
+      <guid>https://debosmit-neogi.github.io/portfolio/post/chapter-3/</guid>
       <description>The paper presents a system that colourises monochrome images driven by deep-neural-networks without any additional supportive aid. Throughout the paper we explore feature engineering, transfer learning, colour spaces and colour channels and various architectural neural frameworks. Eventually, stained and tinted colorized image or image sequence(video) has been derived from monochrome images, that are more aesthetically pleasing, information rich and more vivid with higher trace ability. The experimental results, illustrating the viability of our methodology and divulging favourable route for future work.</description>
     </item>
     
     <item>
       <title>BLINK-CON: A hands free mouse pointer control with eye gaze tracking</title>
-      <link>https://example.com/post/chapter-2/</link>
+      <link>https://debosmit-neogi.github.io/portfolio/post/chapter-2/</link>
       <pubDate>Mon, 10 Apr 2017 11:00:59 -0400</pubDate>
       
-      <guid>https://example.com/post/chapter-2/</guid>
+      <guid>https://debosmit-neogi.github.io/portfolio/post/chapter-2/</guid>
       <description>The working of Blink-Con, a framework for intelligent vision directed mobilization of onscreen mouse-cursor, without engaging any auxiliary assistance, is illustrated in this paper. Blink-Con is framed keeping in mind the corporal accessibility limitations of a specially abled person in operating, controlling and interacting with physical devices. In this work the system explored are technically dominated in color spaces, precise ROI detection, closed loop sequential interaction and eventually a system gets constructed and attained where the GUI onscreen pointer (mouse cursor) gets directed by interpreting significant eye gaze and blink.</description>
     </item>
     
     <item>
       <title>FitNet: A deep neural driven architecture for real time posture rectification</title>
-      <link>https://example.com/post/chapter-1/</link>
+      <link>https://debosmit-neogi.github.io/portfolio/post/chapter-1/</link>
       <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
       
-      <guid>https://example.com/post/chapter-1/</guid>
+      <guid>https://debosmit-neogi.github.io/portfolio/post/chapter-1/</guid>
       <description>A methodology of real time pose estimation, which is believed to mitigate many orthopaedic adversaries pertaining to wrong posture, has been illustrated in this paper. Vast array of problems get reported that are known to arise due to maintaining a wrong posture during exercising or performing yoga, for a prolonged period of time. Several developments were made with regard to this issue, yet a major drawback was the presumption that a person during exercising or performing yoga or any kind of gym sessions, will keep the camera facing only at a fixed pre-determined portrayal direction.</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://example.com/contact/</link>
+      <link>https://debosmit-neogi.github.io/portfolio/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/contact/</guid>
+      <guid>https://debosmit-neogi.github.io/portfolio/contact/</guid>
       <description>This is an example of a custom shortcode that you can put right into your content. You will need to add a form action to the the shortcode to make it work. Check out Formspree for a simple, free form service.
 Your Name Email Address An email address is required.  Message   </description>
     </item>
     
     <item>
       <title>Timeline of Events</title>
-      <link>https://example.com/timeline/</link>
+      <link>https://debosmit-neogi.github.io/portfolio/timeline/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/timeline/</guid>
+      <guid>https://debosmit-neogi.github.io/portfolio/timeline/</guid>
       <description>October 2021: Got selected for research internship position at prestigious Visual Computing Lab, IISC Bangalore.
   October 2021: Presented paper at 3ICT Bahrain.
   September 2021: Started research on fMR Image reconstruction at University of North Carolina, Chapel-Hill (UNC, Chapel Hill).
